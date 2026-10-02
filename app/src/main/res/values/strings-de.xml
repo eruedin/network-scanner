@@ -3,33 +3,33 @@
     <string name="app_name" translatable="false">Network Scanner</string>
 
     <!-- Menu items -->
-    <string name="action_settings">Settings</string>
-    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_refresh">Aktualisieren</string>
     <string name="action_theme">Toggle Theme</string>
 
     <!-- Scan states -->
-    <string name="scanning">Scanning network…</string>
-    <string name="scan_complete">Scan complete</string>
-    <string name="devices_found">%d devices found</string>
-    <string name="pull_to_refresh">Pull to refresh</string>
+    <string name="scanning">Netzwerk durchsuchen…</string>
+    <string name="scan_complete">Vollständig durchsuchen</string>
+    <string name="devices_found">%d Geräte gefunden</string>
+    <string name="pull_to_refresh">Drücken, um zu aktualisieren</string>
 
     <!-- Initial state -->
-    <string name="initial_scan_title">Scan Your Network</string>
-    <string name="initial_scan_message">Discover all devices connected to your WiFi network</string>
-    <string name="action_scan_network">Scan Network</string>
+    <string name="initial_scan_title">Durchsuchen Sie Ihr Netzwerk</string>
+    <string name="initial_scan_message">Sehen Sie alle Geräte, die mit Ihrem Funknetzwerk verbu den sind
+    <string name="action_scan_network">Netzwerk durchsuchen</string>
 
     <!-- Device sections -->
-    <string name="section_active">Active Devices</string>
-    <string name="section_offline">Offline Devices</string>
+    <string name="section_active">Aktive Geräte</string>
+    <string name="section_offline">Geräte ohne Netzwerkverbindung</string>
 
     <!-- Device info -->
-    <string name="unknown_device">Unknown Device</string>
-    <string name="unknown_manufacturer">Unknown Manufacturer</string>
+    <string name="unknown_device">Unbekanntes Gerät</string>
+    <string name="unknown_manufacturer">Unbekannter Hersteller</string>
     <string name="ip_address">IP: %s</string>
     <string name="mac_address">MAC: %s</string>
     <string name="hostname">Hostname: %s</string>
-    <string name="last_seen">Last seen: %s</string>
-    <string name="this_device">This Device</string>
+    <string name="last_seen">Zuletzt gesehen: %s</string>
+    <string name="this_device">Dieses Gerät</string>
 
     <!-- Empty states -->
     <string name="no_devices_title">No Devices Found</string>
