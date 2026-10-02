@@ -50,4 +50,28 @@
     <string name="error_permission_denied">Zugriff verweigert</string>
     <string name="error_no_network">Keine Netzwerkverbindung</string>
 
-    
+    <!-- Berechtigungen -->
+    <string name="permission_location_title">Analyse verbessern</string>
+    <string name="permission_location_message">Die Standortberechtigung ist erforderlich, um auf WLAN-Informationen für die Netzwerkanalys zugreifen zu können.</string>
+    <string name="permission_optional_message">Durch die Erteilung der Standortberechtigung können mehr Geräte erkannt und genaue Netzwerkinformationen angezeigt werden. Dies ist optional – die App funktioniert auch ohne diese Berechtigung.</string>
+    <string name="permission_nearby_title">Berechtigung für Geräte in der Nähe</string>
+    <string name="permission_nearby_message">Diese Berechtigung ermöglicht es der App, Geräte in der Nähe in Ihrem Netzwerk zu erkennen.</string>
+    <string name="grant_permission">Berechtigung erteilen</string>
+    <string name="skip">Überspringen</string>
+    <string name="permission_local_network_denied">Die Berechtigung für Geräte in der Nähe ist erforderlich, um Ihr lokales Netzwerk zu analysieren.</string>
+    <string name="action_open_settings">Einstellungen öffnen</string>
+
+    <!-- Design -->
+    <string name="theme_light">Hell</string>
+    <string name="theme_dark">Dunkel</string>
+    <string name="theme_system">System</string>
+
+    <!-- Inhaltsbeschreibungen -->
+    <string name="cd_device_icon">Symbol für Gerätetyp</string>
+    <string name="cd_scan_button">Netzwerkanalyse starten</string>
+    <string name="cd_device_status">Gerätestatusanzeige</string>
+
+    <!-- Gerätedetail-Bildschirm -->
+    <string name="device_details">Gerätedetails</string>
+    <string name="section_identity">Identität</string>
+    <string name="section_network">Netzwerk
