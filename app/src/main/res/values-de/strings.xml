@@ -1,1 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Netzwork Scanner</string>
 
+    <!-- Menüelemente -->
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_refresh">Aktualisieren</string>
+    <string name="action_theme">Ansicht umschalten</string>
+
+    <!-- Scan-Zustände -->
+    <string name="scanning">Netzwerk wird analysiert…</string>
+    <string name="scan_complete">Analyse abgeschlossen</string>
+    <string name="devices_found">%d Geräte gefunden</string>
+    <string name="pull_to_refresh">Zum Aktualisieren nach unten ziehen</string>
+
+    <!-- Anfangszustand -->
+    <string name="initial_scan_title">Netzwerk analysieren</string>
+    <string name="initial_scan_message">Alle mit Ihrem WLAN-Netzwerk verbundenen Geräte erkennen</string>
+    <string name="action_scan_network">Netzwerk analysieren</string>
+
+    <!-- Gerätebereiche -->
+    <string name="section_active">Aktive Geräte</string>
+    <string name="section_offline">Geräte ohne Verbindung zum Netzwerk</string>
+
+    <!-- Geräteinformationen -->
+    <string name="unknown_device">Unbekanntes Gerät</string>
+    <string name="unknown_manufacturer">Unbekannter Hersteller</string>
+    <string name="ip_address">IP: %s</string>
+    <string name="mac_address">MAC: %s</string>
+    <string name="hostname">Hostname: %s</string>
+    <string name="last_seen">Zuletzt gesehen: %s</string>
+    <string name="this_device">Dieses Gerät</string>
+
+    <!-- Leere Zustände -->
+    <string name="no_devices_title">Keine Geräte gefunden</string>
+    <string name="no_devices_message">Erstellen
