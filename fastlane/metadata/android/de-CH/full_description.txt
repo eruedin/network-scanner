@@ -21,5 +21,27 @@ Egal, ob Sie Verbindungsprobleme beheben, die Sicherheit Ihres Netzwerks überpr
 
 • Finden Sie die IP-Adresse jedes mit Ihrem Netzwerk verbundenen Geräts
 • Unbekannte Geräte erkennen
+• Identifizieren Sie Gerätetypen – Telefone, Laptops, Fernseher, Router, Drucker, NAS und mehr
+• Überprüfen Sie offene Anschlüsse, um Schwachstellen in Ihrer Netzwerksicherheit aufzudecken
+• Beheben Sie Verbindungsprobleme
+• Überwachen Sie Ihr Heim- oder Büronetzwerk
 
-Übersetzt mit DeepL.com (kostenlose Version)
+<b>Datenschutz an erster Stelle:</b>
+
+• Keine Werbung, keine Verfolgung, keine Analysen
+• Alle Analysen finden lokal auf Ihrem Gerät statt
+• Es wird nichts hochgeladen, und keine Analyse-Ergebnisse verlassen jemals Ihr Telefon
+• Nur minimale Berechtigungen erforderlich
+• 100 % Open Source (GPL-3.0) und vollständig überprüfbar
+
+<b>Erläuterung der Berechtigungen:</b>
+
+Der Netzwerk-Scanner fordert nur die Berechtigungen an, die er zum Scannen benötigt:
+
+• <b>Netzwerkzugriff</b> — Zur Kommunikation mit Geräten in Ihrem Netzwerk.
+
+• <b>WLAN-Status</b> — Um zu prüfen, ob Sie verbunden sind, und das zu analysierende Netzwerk zu identifizieren.
+
+• <b>WLAN-Geräte in der Nähe</b> — Erforderlich, um Geräte in Ihrem lokalen Netzwerk zu erkennen. Android schränkt den Zugriff auf das lokale Netzwerk zunehmend ein: Ab Android 17 müssen Apps über eine Berechtigung für das lokale Netzwerk verfügen, um überhaupt auf Geräte in Ihrem LAN zugreifen zu können. Ohne diese Berechtigung funktioniert die Analyse nicht.
+
+• <b>Standort (optional, wird niemals zur Ortung verwendet)</b> – Nur zum Auslesen Ihres WLAN-Netzwerknamens (SSID) zur Anzeige. Das Lesen funktioniert auch ohne diese Berechtigung einwandfrei.
