@@ -1,1 +1,25 @@
+Network Scanner ist ein schneller WLAN- und IP-Scanner, der alle Geräte in Ihrem lokalen Netzwerk anzeigt – mit IP-Adresse, Hostnamen, offenen Ports und Gerätetyp. Keine Werbung, kein Verfolgung, kein Wurzel-Zugriff erforderlich.
 
+Egal, ob Sie Verbindungsprobleme beheben, die Sicherheit Ihres Netzwerks überprüfen oder einfach nur wissen möchten, wer mit Ihrem Router verbunden ist – Network Scanner funktioniert vollständig offline. Der gesamte Lesevorgang findet auf Ihrem Gerät statt, und die App ist vollständig quelloffen unter der GPL-3.0-Lizenz.
+
+<b>Wichtigste Funktionen:</b>
+
+• Schneller WLAN-Netzwerkscan, um alle Geräte in Ihrem lokalen Netzwerk zu erkennen
+• Ping-Scan mit TCP-Rückfall, um Geräte zu erkennen, die ICMP blockieren
+• Gerätedetails einschließlich IP-Adresse, Hostname und Gerätetyp
+• Port-Leser zur Identifizierung offener Anschlüsse und laufender Dienste
+• Vollständiger Port-Scan aller 65.535 Anschlüsse für eine tiefergehende Analyse
+• mDNS-/Bonjour-Erkennung für AirPlay, Chromecast, Drucker, SSH, SMB und mehr
+• Betriebssystem-Fingerabdruck zur Identifizierung von Windows, Linux, macOS, Routern und Druckern
+• MAC-Adress- und Hersteller-Abfrage, sofern Android dies zulässt – moderne Android-Versionen schränken die Sichtbarkeit von MAC-Adressen aus Datenschutzgründen ein, und zufällige (private) Adressen werden bei Erkennung gekennzeichnet
+• Die Herstellerabfrage erfolgt anhand einer in der App integrierten Datenbank, sodass keine Daten über eine Fernabfrage gesendet werden
+• Übersichtliche Benutzeroberfläche im Material Design 3
+• Benutzerdefinierte Geräte: Geräte umbenennen und eigene Symbole zuweisen
+• Auswahl der Schnittstelle (WLAN, Ethernet, VPN) und anpassbare Lese-Einstellungen
+
+<b>Wer ist in meinem WLAN?</b>
+
+• Finden Sie die IP-Adresse jedes mit Ihrem Netzwerk verbundenen Geräts
+• Unbekannte Geräte erkennen
+
+Übersetzt mit DeepL.com (kostenlose Version)
