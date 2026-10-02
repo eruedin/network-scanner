@@ -74,4 +74,30 @@
     <!-- Gerätedetail-Bildschirm -->
     <string name="device_details">Gerätedetails</string>
     <string name="section_identity">Identität</string>
-    <string name="section_network">Netzwerk
+    <string name="section_network">Netzwerk</string>
+    <string name="deep_scan_results">Ergebnisse der Tiefen-Analyse</string>
+    <string name="open_ports">Offene Anschlüsse</string>
+
+    <!-- Bezeichnungen -->
+    <string name="label_ip_address">IP-Adresse</string>
+    <string name="label_mac_address">MAC-Adresse</string>
+    <string name="label_mac_address_randomized">MAC-Adresse (zufällig generiert)</string>
+    <string name="label_vendor">Hersteller</string>
+    <string name="label_latency">Latenz</string>
+    <string name="label_hostname">Hostname</string>
+    <string name="label_netbios_name">NetBIOS-Name</string>
+    <string name="label_services">Dienste</string>
+    <string name="label_discovered_via">Entdeckt über</string>
+    <string name="label_detected_os">Erkanntes Betriebssystem</string>
+    <string name="label_scan_duration">Analyse-Dauer</string>
+    <string name="label_friendly_name">Anzeigename</string>
+    <string name="label_model">Modell</string>
+    <string name="label_serial_number">Seriennummer</string>
+    <string name="label_os_hint">Betriebssystem-Hinweis (TTL)</string>
+    <string name="label_workgroup">Arbeitsgruppe</string>
+    <string name="label_upnp_type">UPnP-Typ</string>
+    <string name="label_web_interface">Webschnittstelle</string>
+
+    <!-- TTL-basierte Betriebssystem-Hinweise -->
+    <string name="ttl_hint_unix">%d (Linux/Android/iOS)</string>
+    <string name="ttl_hint_windows
