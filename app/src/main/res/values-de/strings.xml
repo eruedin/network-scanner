@@ -131,5 +131,34 @@
     <string name="action_retry">Erneut versuchen</string>
     <string name="interface_option_format">%1$s (%2$s) – %3$s</string>
 
-    <!-- Einstellungsbildschirm -->
+     <!-- Einstellungsbildschirm -->
     <string name="settings_title">Einstellungen</string>
+
+    <!-- Einstellungs-Kategorien -->
+    <string name="pref_category_appearance">Darstellung</string>
+    <string name="pref_category_scanning">Analysieren</string>
+    <string name="pref_category_data">Daten</string>
+    <string name="pref_category_about">Über</string>
+
+    <!-- Einstellungen zur Darstellung -->
+    <string name="pref_theme_title">Ansicht</string>
+    <string name="pref_language_title">Sprache</string>
+    <string name="language_system_default">Systemstandard</string>
+    <string name="pref_dynamic_colors_title">Dynamische Farben</string>
+    <string name="pref_dynamic_colors_summary">Farben aus Ihrem Hintergrundbild verwenden (Android 12+)</string>
+
+    <!-- Scan-Einstellungen -->
+    <string name="pref_auto_scan_title">Automatische Analyse beim Start</string>
+    <string name="pref_auto_scan_summary">Analyse automatisch starten, wenn die App geöffnet wird</string>
+    <string name="pref_scan_timeout_title">Analyse-Zeitüberschreitung</string>
+
+    <!-- Zeitlimit-Optionen -->
+    <string name="timeout_fast">Schnell (3 Sekunden)</string>
+    <string name="timeout_normal">Normal (5 Sekunden)</string>
+    <string name="timeout_thorough">Gründlich (10 Sekunden)</string>
+
+    <!-- Dateneinstellungen -->
+    <string name="pref_clear_cache_title">Zwischenspeicher leeren</string>
+    <string name="pref_clear_cache_summary">Temporäre Analyse-Daten löschen</string>
+    <string name="pref_clear_history_title">Geräteverlauf löschen</string>
+    <string name="pref_clear_history_summary">
