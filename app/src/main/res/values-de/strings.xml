@@ -33,4 +33,21 @@
 
     <!-- Leere Zustände -->
     <string name="no_devices_title">Keine Geräte gefunden</string>
-    <string name="no_devices_message">Erstellen
+    <string name="no_devices_message">Stellen Sie sicher, dass Sie mit einem Funknetzwerk verbunden sind, und versuchen Sie den Suchlauf erneut.</string>
+    <string name="no_wifi_title">Keine Netzwerkverbindung</string>
+    <string name="no_wifi_message">Es wurden keine aktiven Netzwerkschnittstellen gefunden. Stellen Sie eine Verbindung zu einem Netzwerk her und versuchen Sie es erneut.</string>
+    <string name="no_active_interfaces">Keine aktive Schnittstelle</string>
+
+    <!-- Schnittstellentypen -->
+    <string name="interface_type_wifi">WLAN</string>
+    <string name="interface_type_ethernet">Ethernet</string>
+    <string name="interface_type_vpn">VPN</string>
+    <string name="interface_type_cellular">Mobilfunk</string>
+    <string name="interface_type_network">Netzwerk</string>
+
+    <!-- Fehler -->
+    <string name="error_scan_failed">Analyse fehlgeschlagen: %s</string>
+    <string name="error_permission_denied">Zugriff verweigert</string>
+    <string name="error_no_network">Keine Netzwerkverbindung</string>
+
+    
